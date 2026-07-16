@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 </p>
 
-<h1 align="center">SENTINEL-X</h1>
+<h1 align="center">FOX 3</h1>
 <h3 align="center">Voice-Controlled Desktop Automation with AI</h3>
 
 <p align="center">

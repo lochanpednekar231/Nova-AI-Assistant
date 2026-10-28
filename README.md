@@ -1,3 +1,4 @@
+**Adapted and Maintained by:** Lochan Ashok Pednekar
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>

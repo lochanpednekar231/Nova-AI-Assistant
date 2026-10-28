@@ -1,3 +1,36 @@
+# NOVA AI ASSISTANT
+
+### AI-Powered Voice-Controlled Desktop Automation System
+
+**Project Maintainer:** Lochan Ashok Pednekar
+
+**GitHub Username:** [lochanpednekar231](https://github.com/lochanpednekar231)
+
+**Course:** TYBSc Computer Science
+
+**University:** University of Mumbai
+
+**Programming Language:** Python
+
+**Platform:** Windows
+
+**Project Status:** Under Development
+
+### Project Credits
+
+- **Current Maintainer:** Lochan Ashok Pednekar
+- **Original Developer:** [Shehzad3684](https://github.com/Shehzad3684)
+- **Original Project:** FOX-3 / SENTINEL-X
+
+This project is adapted from the original open-source implementation. Original contributions and applicable license notices are preserved.
+
+---
+
+
+
+
+
+
 **Adapted and Maintained by:** Lochan Ashok Pednekar
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>

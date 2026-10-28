@@ -19,7 +19,7 @@
 ### Project Credits
 
 - **Current Maintainer:** Lochan Ashok Pednekar
-- **Original Developer:** [Shehzad3684](https://github.com/Shehzad3684)
+- **Original Developer:** [https://github.com/lochanpednekar231/Nova-AI-Assistant)
 - **Original Project:** FOX-3 / SENTINEL-X
 
 This project is adapted from the original open-source implementation. Original contributions and applicable license notices are preserved.
